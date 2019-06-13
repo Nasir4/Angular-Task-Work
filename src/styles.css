@@ -1,0 +1,9 @@
+@import "~bootstrap/dist/css/bootstrap.css";
+@import "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+
+body {
+  background-image: url("./assets/images/task.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
